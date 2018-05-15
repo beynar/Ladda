@@ -346,3 +346,4 @@ function bindElement( element, options ) {
 	}, false );
 
 }
+
